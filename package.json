@@ -1,0 +1,18 @@
+{
+  "name": "sql-fixtures-issue",
+  "version": "0.0.1",
+  "description": "sql-fixtures-issue",
+  "main": "index.js",
+  "dependencies": {
+    "knex": "^0.7.3",
+    "mysql": "^2.4.3",
+    "sql-fixtures": "^0.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:taurencoder/sql-fixtures-issue.git"
+  },
+  "author": "Daniel",
+  "homepage": "https://github.com/taurencoder/sql-fixtures-issue"
+}
+
