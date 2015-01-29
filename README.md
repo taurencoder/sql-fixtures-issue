@@ -11,3 +11,6 @@ nodejs version 0.11.14
 3. run `knex migrate:latest`
 4. run `node create-fixtures` for more than 2 times
 5. query table product_settings to check its `product_id` column's references
+
+##Result
+![Alt text](screen-shot.png "Result")
