@@ -6,7 +6,7 @@
   "dependencies": {
     "knex": "^0.7.3",
     "mysql": "^2.4.3",
-    "sql-fixtures": "^0.8.1"
+    "sql-fixtures": "^0.8.2"
   },
   "repository": {
     "type": "git",
